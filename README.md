@@ -26,9 +26,8 @@ Para jogar, siga estas etapas:
 Se você deseja adicionar mais tanques e jogar com amigos, basta editar o dicionário `tanks` no arquivo `TankGame.py` (linha 3). Informe uma letra (key) para representar seu tanque e um nome (value) com a classe. 
 Por exemplo: 
 
-tanks {
+`tanks {
     'a': Tank('Amigo1'),
     'b': Tank('Amigo2'),
-    'c': Tank('Amigo3'),
     # Adicione mais tanques aqui
-}
+}`
